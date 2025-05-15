@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1747342262 source:d:\mau\clases\src\student.cpp
+	"Student.h"
+
+1747342592 d:\mau\clases\include\student.h
+	<string>
+
