@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1747347184 source:d:\mau\poo\main.cpp
+	<iostream>
+	"Student.h"
+
+1747347919 d:\mau\poo\include\student.h
+	<string>
+	<iostream>
+
+1747346725 source:d:\mau\poo\src\student.cpp
+	"Student.h"
+
